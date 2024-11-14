@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #87CEEB;
+}
+
+#game-container {
+    width: 100%;
+    max-width: 480px;
+    max-height: 640px;
+    overflow: hidden;
+}
